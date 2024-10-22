@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/lopenling"><img src="https://raw.githubusercontent.com/world-federation-of-advertisers/Home/refs/heads/main/img/Halo-Logo.png" alt="Halo CMM" width="200"></a>
+  <a href="https://github.com/world-federation-of-advertisers"><img src="https://raw.githubusercontent.com/world-federation-of-advertisers/Home/refs/heads/main/img/Halo-Logo.png" alt="Halo CMM" width="200"></a>
   <br>
 </h1>
 
